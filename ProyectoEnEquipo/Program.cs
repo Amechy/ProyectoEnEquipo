@@ -10,8 +10,15 @@ namespace ProyectoEnEquipo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola");
+            // Declaraciones
+            Clase00 alumno0 = new Clase00();
+
+            Console.WriteLine(alumno0.nombre);
+            Console.WriteLine("\n\nFin del listado");
             Console.ReadLine();
+            //FIN//
+
+
         }
     }
 }
