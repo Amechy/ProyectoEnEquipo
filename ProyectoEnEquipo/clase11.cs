@@ -11,7 +11,7 @@ namespace ProyectoEnEquipo
         public string nombre;
         public clase11()
         {
-            this.nombre = "Cristóbal Javier Miguel Amad";
+            this.nombre = "Cristóbal Javier Miguel Amado";
         }
     }
 }
